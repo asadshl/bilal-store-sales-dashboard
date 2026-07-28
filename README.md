@@ -49,23 +49,20 @@ The objective of this project is to track and analyze online sales data across d
 
 ## 📸 Dashboard Preview
 
-### Dashboard Overview
 
 ![Dashboard Overview](dashboard-overview.png)
 
 ### Monthly Sales
 
-![Monthly Sales](Mothly Sales.png)
+![Monthly Sales](monthly-sales.png)
 
 ### Payment Analysis
 
-![Payment Analysis](Payment analysis.png)
+![Payment Analysis](payment-analysis.png)
 
 ### Sales by State
 
-![Sales by State](Sales by State.png)
-
----
+![Sales by State](sales-by-state.png)
 
 ## 📁 Repository Files
 
